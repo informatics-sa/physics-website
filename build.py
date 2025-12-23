@@ -234,7 +234,7 @@ def build_participations():
             'country_arname': participation['country_arname'],
             'country_enname': participation['country_enname'],
             'participants': participation['ar_participants'],
-            'scores': participation['scores'],
+            'scores': participation.get('scores'),
             'website': participation['website'],
             'online': participation['online'] if 'online' in participation else False
         })
@@ -249,7 +249,7 @@ def build_participations():
             'country_arname': participation['country_arname'],
             'country_enname': participation['country_enname'],
             'participants': participation['en_participants'],
-            'scores': participation['scores'],
+            'scores': participation.get('scores'),
             'website': participation['website'],
             'online': participation['online'] if 'online' in participation else False
         })
@@ -457,8 +457,8 @@ def main():
     build_members()
     print("Built members")
 
-    build_members_index()
-    print("Built members index")
+    # build_members_index()
+    # print("Built members index")
 
     build_olympiads_index()
     print("Built olympiads index")
@@ -472,11 +472,11 @@ def main():
     build_participations_index()
     print("Built participations index")
 
-    build_tst_index()
-    print("Built TST index")
+    # build_tst_index()
+    # print("Built TST index")
 
-    build_exams()
-    print("Built exams")
+    # build_exams()
+    # print("Built exams")
 
 if __name__ == '__main__':
     main()
