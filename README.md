@@ -1,13 +1,11 @@
-# Saudi Informatics Team Website
-This website is made by the students on the Saudi Team, to preserve history of Saudi Informatics Team (SIT) in one place.
+# Saudi Physics Team website
 
-This website includes: olympiads, participations, members, contact, and image library.
-
-## Documentation
-Read [Website public data files](https://sainformatics.org/data/) documentation.
-
-You might also refer to [Developer documentation](https://sainformatics.org/data/dev).
-
+Total Saudi medals as of 2025:
+- [NBPhO](https://x.com/mawhiba/status/1915692296286126589): 4/5 participations
+- [APhO](https://x.com/mawhiba/status/1919021998455345155): 4/16 participations
+- [IPhO](https://x.com/mawhiba/status/1945765011223155139): 12/12 participations
+- [EuPhO](https://x.com/mawhiba/status/1812747700984496249) / [Another source](https://x.com/moe_gov_sa/status/1814390806838685781): 7/7 participations
+- [GPhO](https://x.com/mawhiba/status/1845728842305949942): 2/5 participations
 
 ## Local Build
 ### Prerequisites
@@ -29,17 +27,6 @@ bundle install
 ```sh
 python build.py && bundle exec jekyll serve -s ./root
 ```
-
-## Maintainers
-This website needs people who maintain the data up-to-date.
-
-The main goal is to have at any time **at least 3 active maintainers**.
-
-### Current maintainers:
-
-- Ali Alsalman
-- Sultan Alaiban
-- Omar Muharib
 
 ## License
 This project is licensed under the GNU General Public License v3.0.

@@ -275,7 +275,7 @@
         "country": "in",
         "website": "https://apho2022.in/",
         "participants": {
-            "alqasem_senegali": "bronze"
+            "sadeq_alabbad": "bronze"
         }
     },
     {
@@ -334,7 +334,10 @@
         "website": "https://eupho2019.lu.lv/",
         "participants": {
             "yazan_almajnouni": "gold",
-            "hisham_almaliki": "bronze"
+            "hisham_almaliki": "bronze",
+            "moaaz_fayumy": null,
+            "ahmed_alhaid": null,
+            "ahmed_almuhanna": null
         }
     },
     {
@@ -344,7 +347,13 @@
         "end": "2020/7/26",
         "country": "ro",
         "website": "https://eupho2020.ro/",
-        "participants": {}
+        "participants": {
+            "ahmed_alhaid": "bronze",
+            "hisham_almaliki": "bronze",
+            "husam_nouroli": "bronze",
+            "alqasem_senegali": "hm",
+            "hussain_alshammasi": null
+        }
     },
     {
         "name": "eupho",
@@ -352,8 +361,15 @@
         "start": "2021/6/19",
         "end": "2021/6/26",
         "country": "lv",
+        "online": true,
         "website": "https://eupho.ee/eupho-2021/",
-        "participants": {}
+        "participants": {
+            "alqasem_senegali": "silver",
+            "ahmed_almuhanna": "bronze",
+            "sadeq_alabbad": "bronze",
+            "hassan_allail": "bronze",
+            "hussain_alshammasi": null
+        }
     },
     {
         "name": "eupho",
@@ -362,7 +378,13 @@
         "end": "2022/6/10",
         "country": "si",
         "website": "https://eupho.ee/eupho-2022/",
-        "participants": {}
+        "participants": {
+            "sadeq_alabbad": "bronze",
+            "hussain_qadah": "hm",
+            "mohammed_albarakat": "hm",
+            "lama_alahdal": null,
+            "jawad_alsaif": null
+        }
     },
     {
         "name": "eupho",
@@ -370,8 +392,14 @@
         "start": "2023/6/16",
         "end": "2023/6/20",
         "country": "de",
-        "website": "https://eupho23.org/",
-        "participants": {}
+        "website": "https://eupho.ee/eupho-2023/",
+        "participants": {
+            "mazen_alshakhs": "silver",
+            "mohammed_albarakat": "bronze",
+            "hussain_qadah": "bronze",
+            "rose_alsendi": "hm",
+            "ahmed_orif": null
+        }
     },
     {
         "name": "eupho",
@@ -380,7 +408,13 @@
         "end": "2024/6/5",
         "country": "ge",
         "website": "https://eupho.ee/eupho-2024/",
-        "participants": {}
+        "participants": {
+            "mazen_alshakhs": "silver",
+            "wesam_alqanbar": "bronze",
+            "ahmed_orif": "bronze",
+            "ahmed_fadhlallah": "hm",
+            "abdulmalek_alem": null
+        }
     },
     {
         "name": "eupho",
@@ -389,34 +423,13 @@
         "end": "2025/6/10",
         "country": "bg",
         "website": "https://eupho2025.phys.uni-sofia.bg/",
-        "participants": {}
-    },
-    {
-        "name": "nbpho",
-        "year": 2018,
-        "start": "2018/4/24",
-        "end": "2018/4/26",
-        "country": "ee",
-        "website": "https://nbpho.ee/",
-        "participants": {}
-    },
-    {
-        "name": "nbpho",
-        "year": 2019,
-        "start": "2019/4/24",
-        "end": "2019/4/26",
-        "country": "ee",
-        "website": "https://nbpho.ee/",
-        "participants": {}
-    },
-    {
-        "name": "nbpho",
-        "year": 2020,
-        "start": "2020/5/16",
-        "end": "2020/5/16",
-        "country": "ee",
-        "website": "https://nbpho.ee/",
-        "participants": {}
+        "participants": {
+            "hussain_alsaleh": "hm",
+            "ali_alhassan": "hm",
+            "faris_alghamdi": "hm",
+            "mohammed_alarfaj": null,
+            "naser_alshaye": null
+        }
     },
     {
         "name": "nbpho",
@@ -424,13 +437,16 @@
         "start": "2021/5/7",
         "end": "2021/5/8",
         "country": "ee",
-        "website": "https://nbpho.ee/",
+        "website": "https://nbpho.ee/nbpho-2021/",
         "participants": {
             "ahmed_almuhanna": "gold",
             "alqasem_senegali": "silver",
             "hassan_allail": "silver",
+            "hussain_alshammasi": "bronze",
             "sadeq_alabbad": "bronze",
-            "hussain_alshammasi": "bronze"
+            "lama_alahdal": null,
+            "jawad_alsaif": null,
+            "hussam_ashour": null
         }
     },
     {
@@ -440,7 +456,11 @@
         "end": "2022/4/24",
         "country": "ee",
         "website": "https://nbpho.ee/nbpho-2022/",
-        "participants": {}
+        "participants": {
+            "sadeq_alabbad": "silver",
+            "jawad_alsaif": "bronze",
+            "lama_alahdal": "bronze"
+        }
     },
     {
         "name": "nbpho",
@@ -449,7 +469,12 @@
         "end": "2023/4/16",
         "country": "ee",
         "website": "https://nbpho.ee/nbpho-2023/",
-        "participants": {}
+        "participants": {
+            "hussain_qadah": "silver",
+            "mohammed_albarakat": "silver",
+            "mazen_alshakhs": "bronze",
+            "rose_alsendi": "bronze"
+        }
     },
     {
         "name": "nbpho",
@@ -458,7 +483,12 @@
         "end": "2024/4/28",
         "country": "ee",
         "website": "https://nbpho.ee/nbpho-2024/",
-        "participants": {}
+        "participants": {
+            "wesam_alqanbar": "gold",
+            "mazen_alshakhs": "silver",
+            "ahmed_fadhlallah": "silver",
+            "ahmed_orif": "hm"
+        }
     },
     {
         "name": "nbpho",
@@ -467,7 +497,12 @@
         "end": "2025/4/27",
         "country": "ee",
         "website": "https://nbpho.ee/nbpho-2025/",
-        "participants": {}
+        "participants": {
+            "faris_alghamdi": "silver",
+            "hussain_alsaleh": "silver",
+            "mohammed_alarfaj": "bronze",
+            "ali_alhassan": "hm"
+        }
     },
     {
         "name": "gpho",
@@ -508,6 +543,20 @@
             "lama_alahdal": "gold",
             "jawad_alsaif": "gold",
             "hussain_qadah": "silver"
+        }
+    },
+    {
+        "name": "gpho",
+        "year": 2024,
+        "start": "2024/10/11",
+        "end": "2024/10/15",
+        "country": "sa",
+        "website": null,
+        "participants": {
+            "mazen_alshakhs": "gold",
+            "faris_alghamdi": "gold",
+            "anas_alsaygh": "silver",
+            "hussain_alsaleh": "silver"
         }
     }
 ]
