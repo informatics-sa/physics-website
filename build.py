@@ -4,6 +4,7 @@ from lib import *
 from lib.utils import * # target to remove this.
 import datetime
 
+os.system('python3 helper.py')
 
 countries = get_countries()
 members = get_members()

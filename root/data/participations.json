@@ -20,7 +20,13 @@
         "end": "2025/6/10",
         "country": "bg",
         "website": "https://eupho2025.phys.uni-sofia.bg/",
-        "participants": {}
+        "participants": {
+            "23": "hm",
+            "7": "hm",
+            "16": "hm",
+            "32": null,
+            "50": null
+        }
     },
     {
         "name": "apho",
@@ -30,7 +36,11 @@
         "country": "sa",
         "website": "https://www.apho2025.sa/",
         "participants": {
-            "29": "bronze"
+            "29": "bronze",
+            "23": "bronze",
+            "16": "hm",
+            "32": "hm",
+            "46": "hm"
         }
     },
     {
@@ -40,7 +50,26 @@
         "end": "2025/4/27",
         "country": "ee",
         "website": "https://nbpho.ee/nbpho-2025/",
-        "participants": {}
+        "participants": {
+            "16": "silver",
+            "23": "silver",
+            "32": "bronze",
+            "7": "hm"
+        }
+    },
+    {
+        "name": "gpho",
+        "year": 2024,
+        "start": "2024/10/11",
+        "end": "2024/10/15",
+        "country": "sa",
+        "website": null,
+        "participants": {
+            "29": "gold",
+            "16": "gold",
+            "45": "silver",
+            "23": "silver"
+        }
     },
     {
         "name": "ipho",
@@ -64,7 +93,16 @@
         "end": "2024/6/10",
         "country": "my",
         "website": "https://apho2024.utar.edu.my/",
-        "participants": {}
+        "participants": {
+            "29": "bronze",
+            "38": "hm",
+            "5": "hm",
+            "42": "hm",
+            "6": null,
+            "44": null,
+            "47": null,
+            "7": null
+        }
     },
     {
         "name": "eupho",
@@ -73,7 +111,13 @@
         "end": "2024/6/5",
         "country": "ge",
         "website": "https://eupho.ee/eupho-2024/",
-        "participants": {}
+        "participants": {
+            "29": "silver",
+            "38": "bronze",
+            "6": "bronze",
+            "5": "hm",
+            "42": null
+        }
     },
     {
         "name": "nbpho",
@@ -82,7 +126,12 @@
         "end": "2024/4/28",
         "country": "ee",
         "website": "https://nbpho.ee/nbpho-2024/",
-        "participants": {}
+        "participants": {
+            "38": "gold",
+            "29": "silver",
+            "5": "silver",
+            "6": "hm"
+        }
     },
     {
         "name": "ipho",
@@ -103,8 +152,14 @@
         "start": "2023/6/16",
         "end": "2023/6/20",
         "country": "de",
-        "website": "https://eupho23.org/",
-        "participants": {}
+        "website": "https://eupho.ee/eupho-2023/",
+        "participants": {
+            "29": "silver",
+            "33": "bronze",
+            "25": "bronze",
+            "35": "hm",
+            "6": null
+        }
     },
     {
         "name": "apho",
@@ -113,7 +168,12 @@
         "end": "2023/5/29",
         "country": "mn",
         "website": "https://apho2023.mn/",
-        "participants": {}
+        "participants": {
+            "25": "hm",
+            "29": null,
+            "35": null,
+            "33": null
+        }
     },
     {
         "name": "nbpho",
@@ -122,7 +182,12 @@
         "end": "2023/4/16",
         "country": "ee",
         "website": "https://nbpho.ee/nbpho-2023/",
-        "participants": {}
+        "participants": {
+            "25": "silver",
+            "33": "silver",
+            "29": "bronze",
+            "35": "bronze"
+        }
     },
     {
         "name": "ipho",
@@ -146,7 +211,13 @@
         "end": "2022/6/10",
         "country": "si",
         "website": "https://eupho.ee/eupho-2022/",
-        "participants": {}
+        "participants": {
+            "36": "bronze",
+            "25": "hm",
+            "33": "hm",
+            "28": null,
+            "27": null
+        }
     },
     {
         "name": "apho",
@@ -155,7 +226,9 @@
         "end": "2022/5/30",
         "country": "in",
         "website": "https://apho2022.in/",
-        "participants": {}
+        "participants": {
+            "36": "bronze"
+        }
     },
     {
         "name": "nbpho",
@@ -164,7 +237,11 @@
         "end": "2022/4/24",
         "country": "ee",
         "website": "https://nbpho.ee/nbpho-2022/",
-        "participants": {}
+        "participants": {
+            "36": "silver",
+            "27": "bronze",
+            "28": "bronze"
+        }
     },
     {
         "name": "gpho",
@@ -201,8 +278,15 @@
         "start": "2021/6/19",
         "end": "2021/6/26",
         "country": "lv",
+        "online": true,
         "website": "https://eupho.ee/eupho-2021/",
-        "participants": {}
+        "participants": {
+            "9": "silver",
+            "4": "bronze",
+            "36": "bronze",
+            "20": "bronze",
+            "24": null
+        }
     },
     {
         "name": "apho",
@@ -219,13 +303,16 @@
         "start": "2021/5/7",
         "end": "2021/5/8",
         "country": "ee",
-        "website": "https://nbpho.ee/",
+        "website": "https://nbpho.ee/nbpho-2021/",
         "participants": {
             "4": "gold",
             "9": "silver",
             "20": "silver",
+            "24": "bronze",
             "36": "bronze",
-            "24": "bronze"
+            "28": null,
+            "27": null,
+            "49": null
         }
     },
     {
@@ -235,16 +322,13 @@
         "end": "2020/7/26",
         "country": "ro",
         "website": "https://eupho2020.ro/",
-        "participants": {}
-    },
-    {
-        "name": "nbpho",
-        "year": 2020,
-        "start": "2020/5/16",
-        "end": "2020/5/16",
-        "country": "ee",
-        "website": "https://nbpho.ee/",
-        "participants": {}
+        "participants": {
+            "43": "bronze",
+            "21": "bronze",
+            "48": "bronze",
+            "9": "hm",
+            "24": null
+        }
     },
     {
         "name": "gpho",
@@ -264,7 +348,10 @@
         "website": "https://eupho2019.lu.lv/",
         "participants": {
             "39": "gold",
-            "21": "bronze"
+            "21": "bronze",
+            "30": null,
+            "43": null,
+            "4": null
         }
     },
     {
@@ -274,16 +361,9 @@
         "end": "2019/5/13",
         "country": "au",
         "website": "https://apho2019.asi.edu.au/",
-        "participants": {}
-    },
-    {
-        "name": "nbpho",
-        "year": 2019,
-        "start": "2019/4/24",
-        "end": "2019/4/26",
-        "country": "ee",
-        "website": "https://nbpho.ee/",
-        "participants": {}
+        "participants": {
+            "39": "bronze"
+        }
     },
     {
         "name": "ipho",
@@ -306,15 +386,6 @@
         "end": "2018/5/12",
         "country": "vn",
         "website": "http://apho2018.vn/",
-        "participants": {}
-    },
-    {
-        "name": "nbpho",
-        "year": 2018,
-        "start": "2018/4/24",
-        "end": "2018/4/26",
-        "country": "ee",
-        "website": "https://nbpho.ee/",
         "participants": {}
     },
     {
