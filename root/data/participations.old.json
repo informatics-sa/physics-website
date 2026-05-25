@@ -326,6 +326,24 @@
         }
     },
     {
+        "name": "apho",
+        "year": 2026,
+        "start": "2026/5/17",
+        "end": "2026/5/25",
+        "country": "kr",
+        "website": "https://www.apho2026.kr/",
+        "participants": {
+            "ibrahim_almuallem": null,
+            "hussain_alsaleh": "hm",
+            "naser_alshaye": "hm",
+            "ridha_alkhamis": "hm",
+            "mohammed_alrammal": "hm",
+            "mohammed_alarfaj": "hm",
+            "mohammed_alali": null,
+            "faisal_aljuhani": null
+        }
+    },
+    {
         "name": "eupho",
         "year": 2019,
         "start": "2019/5/31",
@@ -502,6 +520,21 @@
             "hussain_alsaleh": "silver",
             "mohammed_alarfaj": "bronze",
             "ali_alhassan": "hm"
+        }
+    },
+    {
+        "name": "nbpho",
+        "year": 2026,
+        "start": "2025/4/24",
+        "end": "2025/4/26",
+        "country": "ee",
+        "website": "https://nbpho.ee/nbpho-2026/",
+        "participants": {
+            "ridha_alkhamis": "bronze",
+            "mohammed_alramil": "bronze",
+            "naser_alshaye": "hm",
+            "mohammed_alali": "hm",
+            "ibrahim_almuallem": null
         }
     },
     {
