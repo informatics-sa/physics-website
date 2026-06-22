@@ -591,5 +591,29 @@
             "anas_alsaygh": "silver",
             "hussain_alsaleh": "silver"
         }
-    }
+    },
+    {
+        "name": "eupho",
+        "year": 2026,
+        "start": "2026/06/12",
+        "end": "2026/06/16",
+        "country": "se",
+        "website": null,
+        "participants": {
+            "hussain_alsaleh": "bronze",
+            "mohammed_alramil": "hm",
+            "mohammed_alarfaj": "hm",
+            "ridha_alkhamis": null,
+            "naser_alshaye": null
+        }
+    },
+    {
+        "name": "ipho",
+        "year": 2026,
+        "start": "2026/07/04",
+        "end": "2026/07/12",
+        "country": "co",
+        "website": "https://ipho2026.com/",
+        "participants": {}
+    },
 ]
