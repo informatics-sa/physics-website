@@ -614,6 +614,12 @@
         "end": "2026/07/12",
         "country": "co",
         "website": "https://ipho2026.com/",
-        "participants": {}
+        "participants": {
+            "hussain_alsaleh": "bronze",
+            "mohammed_alramil": "bronze",
+            "mohammed_alarfaj": "silver",
+            "ridha_alkhamis": "bronze",
+            "naser_alshaye": "hm"
+        }
     },
 ]
