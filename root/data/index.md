@@ -2,12 +2,11 @@
 lang: en
 title: Public Data API
 layout: default
-todo: "DEVELOPER FORMAT: Make the files compatibale to be used in SQL format"
 ---
 # Public Data API
-Always check the files for examples of the formatting.
+Version: {{ site.data.settings.version }}
 
-## How is the docs written?
+## How to read documentation
 ### Data types
 #### JSON datatypes
 - String
@@ -17,8 +16,8 @@ Always check the files for examples of the formatting.
 - Array: JSON array `[...]`
 - Dictionary/Object: JSON object `{...}`
 #### Custom defined
-- Date: String, gregorian date in format `YYYY/M/D`
-- URL: String, starts with prefix `https://` and without suffix `/`
+- Date: String, gregorian date in[ ](https://xkcd.com/1179/)[ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format (`yyyy-mm-dd`)
+- URL: String, starts with prefix `https://` and without suffix `/` except when required
 - Email: String, an email
 
 ### Properties
@@ -28,6 +27,18 @@ By default each property is required, here are the additional properties:
 - **deprecated**: It was used previously and not removed because of development issues
 - **future**: The field isn't used in any current data, but could be useful in the future development
 
+## Settings file
+Each repository has its own [`/data/settings.json`](/data/people.json) which could have these fields:
+- `version`: String, version number in format `x.x.x` where x is an integer same as [SemVer](https://semver.org/). the data API version used in your files . Default is `0.0.0` **(optional)**
+- `old_id_system`: Boolean, using `id` instead of `iid`. Default false.  **(optional)**
+- `codeforces`: Boolean, in case each user has a Codeforces account. Default false. **(optional)**
+- `icon`: String, filename of favicon inside `/img` folder. **(optional)**
+- `logo`: String, filename of logo inside `/img` folder. Recommended to be SVG. **(optional)**
+- `home_image`: String, filename of an image inside `/img`.
+- `enable_exams_page`: Boolean
+- `enable_members_index`: Boolean
+- `enable_image_library`: Boolean
+
 ## [`/data/people.json`](/data/people.json)
 An array of people, each person has the following:
 - `iid`: Integer, informatics ID of the student, currently fetched from IDs assigned by Marko **(unique)**
@@ -36,13 +47,13 @@ An array of people, each person has the following:
 - `enname`: String, Name in English 
 - `level`: Integer, current SIT Level ("`-1`" if he/she graduated, "`-2`" if he/she disqualified/left before graduating, "`-3`" if he/she was never a student)
 - `graduation`: Integer, graduation year **(optional)**
-- `codeforces`: String, Codeforces username **(optional)**
+- `codeforces`: String, Codeforces username. Used only with `codeforces: true` in `settings.json` **(optional)**
 - `email`: Email, most official email, usually `...@sainformatics.org`, used in case of [contact page](https://sainformatics.org/contact) **(optional)**
 - `female`: Boolean, used in girls competitions, default is `false` **(optional)**
 
 ## [`/data/participations.json`](/data/participations.json)
 An array of olympiads SIT participated in, each olympiad has the following:
-- `id`: String, An id of an olympiad that exists in `olympiads.json`
+- `name`: String, An id of an olympiad that exists in `olympiads.json`
 - `year`: Integer, year
 - `country`: String, the 2-letters country code of the host country of the olympiad.
 - `start`: Date, The start day of the olympiad
@@ -93,9 +104,23 @@ A dictionary of year and olympiad IDs, and every olympiad ID contains a set of e
         "_general_excluded": ["sultan_alaiban"],
         "ioi": {
             "exams": ["exam1", "exam2"],
-            "min_birthdate": "2009/6/30",
+            "min_birthdate": "2009-06-30",
             "female_only": false,
             "excluded": ["muaath_alqarni", "ali_alsalman"]
+        }
+    }
+}
+```
+additionally, if the TSTs for a certain olympiad is weighted, you can use a dictionary of exam ID to weight instead of an array in the `exams` field. for example:
+```json
+{
+    "2026": {
+        "ioi": {
+            "exams": {
+                "exam1": 0.2,
+                "exam2": 0.4,
+                "exam3": 0.4
+            }
         }
     }
 }
@@ -105,7 +130,7 @@ Additional rules (Optional):
 - `excluded`: Array, of strings student ID
 - `min_graduation`: Integer, minimum graduation year to be eligable
 - `female_only`: Boolean, true if the competition is female only
-- `min_birthdate`: Date, the minimum birthdate for eligibility **(future)**
+- `min_birthdate`: Date, the minimum birthdate for eligibility
 
 
 # Constant files
