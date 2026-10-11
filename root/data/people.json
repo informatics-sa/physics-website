@@ -4,384 +4,439 @@
         "id": "abdullah_alsalloum",
         "arname": "عبدالله السلوم",
         "enname": "Abdullah Alsalloum",
-        "graduation_year": 2012
+        "graduation_year": 2012,
+        "soid": "9fb06713-438f-4557-9f28-d4d10d1ad584"
     },
     {
         "iid": 2,
         "id": "abdulmalik_alghonaim",
         "arname": "عبدالملك الغنيم",
         "enname": "Abdulmalik Alghonaim",
-        "graduation_year": null
+        "graduation_year": null,
+        "soid": "5c8a495f-6fc3-409f-b484-fd85f4b7a84d"
     },
     {
         "iid": 3,
         "id": "abdulmohsen_alowayed",
         "arname": "عبدالمحسن العويد",
         "enname": "Abdulmohsen Alowayed",
-        "graduation_year": 2014
+        "graduation_year": 2014,
+        "soid": "d288a26e-03f0-46a3-9e26-3fdadfe11649"
     },
     {
         "iid": 4,
         "id": "ahmed_almuhanna",
         "arname": "أحمد آل مهنا",
         "enname": "Ahmed Almuhanna",
-        "graduation_year": null
+        "graduation_year": null,
+        "soid": "dc38b41d-c878-4e04-b3b5-5f68ce9aec90"
     },
     {
         "iid": 5,
         "id": "ahmed_fadhlallah",
         "arname": "أحمد فضل الله",
         "enname": "Ahmed Fadhlallah",
-        "graduation_year": 2024
+        "graduation_year": 2024,
+        "soid": "0b3bf765-2b6b-476f-8608-39c36a5fae8d"
     },
     {
         "iid": 6,
         "id": "ahmed_orif",
         "arname": "أحمد عريف",
         "enname": "Ahmed Orif",
-        "graduation_year": 2024
+        "graduation_year": 2024,
+        "soid": "79aabc82-3284-4586-a5fe-4940e0f2aef5"
     },
     {
         "iid": 7,
         "id": "ali_alhassan",
         "arname": "علي الحسن",
         "enname": "Ali Alhassan",
-        "graduation_year": null
+        "graduation_year": null,
+        "soid": "03855519-95a4-48e4-a546-3785077b4600"
     },
     {
         "iid": 8,
         "id": "ali_alhulaymi",
         "arname": "علي الحليمي",
         "enname": "Ali Alhulaymi",
-        "graduation_year": null
+        "graduation_year": null,
+        "soid": "f6c2fac8-92d7-40be-b93e-1372e21844d2"
     },
     {
         "iid": 9,
         "id": "alqasem_senegali",
         "arname": "القاسم بن سليمي سنقالي",
         "enname": "Alqasem Senegali",
-        "graduation_year": 2021
+        "graduation_year": 2021,
+        "soid": "31e858c1-836d-4bd2-b170-bc424a932182"
     },
     {
         "iid": 10,
         "id": "alwaleed_aldirgham",
         "arname": "الوليد الضرغام",
         "enname": "Alwaleed Aldirgham",
-        "graduation_year": 2018
+        "graduation_year": 2018,
+        "soid": "f2bc2e7d-ca7e-424a-83d2-606284806c77"
     },
     {
         "iid": 11,
         "id": "ebrahim_aljohani",
         "arname": "إبراهيم الجهني",
         "enname": "Ebrahim Aljohani",
-        "graduation_year": null
+        "graduation_year": null,
+        "soid": "08094323-d702-4d23-8366-0779a45a0773"
     },
     {
         "iid": 12,
         "id": "faisal_alhajeri",
         "arname": "فيصل الهاجري",
         "enname": "Faisal Alhajeri",
-        "graduation_year": null
+        "graduation_year": null,
+        "soid": "9e6f68f1-f9f5-4d7c-9d07-838343378387"
     },
     {
         "iid": 13,
         "id": "faisal_alsaif",
         "arname": "فيصل السيف",
         "enname": "Faisal Alsaif",
-        "graduation_year": 2016
+        "graduation_year": 2016,
+        "soid": "8f01e16c-e511-498f-b096-1696ac8e2611"
     },
     {
         "iid": 14,
         "id": "faisal_alsallom",
         "arname": "فيصل السلوم",
         "enname": "Faisal Alsallom",
-        "graduation_year": 2018
+        "graduation_year": 2018,
+        "soid": "cc7a3345-fda7-4da3-ad5b-d13399de2376"
     },
     {
         "iid": 15,
         "id": "faour_faour",
         "arname": "faour_faour",
         "enname": "Faour Faour",
-        "graduation_year": null
+        "graduation_year": null,
+        "soid": "8b3ef18d-b9a6-492a-acec-797a54d3e118"
     },
     {
         "iid": 16,
         "id": "faris_alghamdi",
         "arname": "فارس الغامدي",
         "enname": "Faris Alghamdi",
-        "graduation_year": 2025
+        "graduation_year": 2025,
+        "soid": "b1b39b11-2da1-4470-8a26-7f36581fdb10"
     },
     {
         "iid": 17,
         "id": "fysal_alkhayyal",
         "arname": "فيصل الخيال",
         "enname": "Fysal Alkhayyal",
-        "graduation_year": 2014
+        "graduation_year": 2014,
+        "soid": "7dd2683f-43d5-4268-a319-d9a5c496eb3f"
     },
     {
         "iid": 18,
         "id": "ghadah_alshalan",
         "arname": "غادة الشعلان",
         "enname": "Ghadah Alshalan",
-        "graduation_year": 2017
+        "graduation_year": 2017,
+        "soid": "250a1b1b-24e8-4267-8b8f-19713695f1ad"
     },
     {
         "iid": 19,
         "id": "ghassan_aljawi",
         "arname": "غسان الجاوي",
         "enname": "Ghassan Aljawi",
-        "graduation_year": 2019
+        "graduation_year": 2019,
+        "soid": "03c37319-5d21-4254-a69e-19e5851075a1"
     },
     {
         "iid": 20,
         "id": "hassan_allail",
         "arname": "حسن آل ليل",
         "enname": "Hassan Allail",
-        "graduation_year": 2021
+        "graduation_year": 2021,
+        "soid": "002aa4d8-ce57-4bd2-bc21-c18a89eea4b5"
     },
     {
         "iid": 21,
         "id": "hisham_almaliki",
         "arname": "هشام بن محمد المالكي",
         "enname": "Hisham Almaliki",
-        "graduation_year": null
+        "graduation_year": null,
+        "soid": "85ff720d-66ff-497f-896f-47bbb3074ff3"
     },
     {
         "iid": 22,
         "id": "homoud_alharbi",
         "arname": "حمود الحربي",
         "enname": "Homoud Alharbi",
-        "graduation_year": null
+        "graduation_year": null,
+        "soid": "656e8d3e-749c-4a16-a986-14a43c6c319f"
     },
     {
         "iid": 23,
         "id": "hussain_alsaleh",
         "arname": "حسين حبيب الصالح",
         "enname": "Hussain Alsaleh",
-        "graduation_year": 2026
+        "graduation_year": 2026,
+        "soid": "47812dc9-7e4b-4253-b417-97abaa99a59a"
     },
     {
         "iid": 24,
         "id": "hussain_alshammasi",
         "arname": "حسين الشماسي",
         "enname": "Hussain Alshammasi",
-        "graduation_year": 2021
+        "graduation_year": 2021,
+        "soid": "786c155e-347e-4515-a034-6797eade2165"
     },
     {
         "iid": 25,
         "id": "hussain_qadah",
         "arname": "حسين قدح",
         "enname": "Hussain Qadah",
-        "graduation_year": 2023
+        "graduation_year": 2023,
+        "soid": "e615cf05-be8b-47aa-81ff-2b5e641b5c94"
     },
     {
         "iid": 26,
         "id": "ibrahim_alnami",
         "arname": "إبراهيم النامي",
         "enname": "Ibrahim Alnami",
-        "graduation_year": 2013
+        "graduation_year": 2013,
+        "soid": "9d3cf87c-04f2-48d3-b149-ddda21782081"
     },
     {
         "iid": 27,
         "id": "jawad_alsaif",
         "arname": "جواد السيف",
         "enname": "Jawad Alsaif",
-        "graduation_year": 2022
+        "graduation_year": 2022,
+        "soid": "d6dbf69a-7da7-4788-9158-52c70f8e5626"
     },
     {
         "iid": 28,
         "id": "lama_alahdal",
         "arname": "لمى الأهدل",
         "enname": "Lama Alahdal",
-        "graduation_year": 2022
+        "graduation_year": 2022,
+        "soid": "f3c87862-1edc-4067-add4-fe237814544b"
     },
     {
         "iid": 29,
         "id": "mazen_alshakhs",
         "arname": "مازن الشخص",
         "enname": "Mazen Alshakhs",
-        "graduation_year": 2025
+        "graduation_year": 2025,
+        "soid": "ecb030ff-c067-4f54-adc0-d78824f0f6c2"
     },
     {
         "iid": 30,
         "id": "moaaz_fayumy",
         "arname": "معاذ فيومي",
         "enname": "Moaaz Fayumy",
-        "graduation_year": 2019
+        "graduation_year": 2019,
+        "soid": "56dc1a4f-57ce-4e0f-a55e-30aa9ce9004a"
     },
     {
         "iid": 31,
         "id": "mohammad_alhejji",
         "arname": "محمد الحجي",
         "enname": "Mohammad Alhejji",
-        "graduation_year": 2013
+        "graduation_year": 2013,
+        "soid": "35b36c89-2ec4-4a00-a143-2841ad379e55"
     },
     {
         "iid": 32,
         "id": "mohammed_alarfaj",
         "arname": "محمد عبدالرحمن العرفج",
         "enname": "Mohammed Alarfaj",
-        "graduation_year": null
+        "graduation_year": null,
+        "soid": "9f9f967b-14b1-4ef0-9aed-4fb1314f7e4e"
     },
     {
         "iid": 33,
         "id": "mohammed_albarakat",
         "arname": "محمد البركات",
         "enname": "Mohammed Albarakat",
-        "graduation_year": 2023
+        "graduation_year": 2023,
+        "soid": "08f64b6e-43d2-4fc8-aa3a-98a6ea194bc1"
     },
     {
         "iid": 34,
         "id": "mohammed_alwazeenani",
         "arname": "محمد الوزيني",
         "enname": "Mohammed Alwazeenani",
-        "graduation_year": null
+        "graduation_year": null,
+        "soid": "769b729c-249a-4cc5-bc2a-6260157c8a65"
     },
     {
         "iid": 35,
         "id": "rose_alsendi",
         "arname": "روز السندي",
         "enname": "Rose Alsendi",
-        "graduation_year": 2025
+        "graduation_year": 2025,
+        "soid": "d0c13f26-8f00-40e9-b9f8-3ae557eda642"
     },
     {
         "iid": 36,
         "id": "sadeq_alabbad",
         "arname": "صادق بن عباس العباد",
         "enname": "Sadeq Alabbad",
-        "graduation_year": 2022
+        "graduation_year": 2022,
+        "soid": "e7c40275-a4b3-4b8f-8f42-cc1231888619"
     },
     {
         "iid": 37,
         "id": "sulaiman_almatroudi",
         "arname": "سليمان المطرودي",
         "enname": "Sulaiman Almatroudi",
-        "graduation_year": null
+        "graduation_year": null,
+        "soid": "3ba6d2c0-6b8b-46d8-a7f6-9845c124c85f"
     },
     {
         "iid": 38,
         "id": "wesam_alqanbar",
         "arname": "وسام القنبر",
         "enname": "Wesam Alqanbar",
-        "graduation_year": 2024
+        "graduation_year": 2024,
+        "soid": "ac6d1398-a105-4e97-9c56-3658255217c8"
     },
     {
         "iid": 39,
         "id": "yazan_almajnouni",
         "arname": "يزن المجنوني",
         "enname": "Yazan Almajnouni",
-        "graduation_year": 2019
+        "graduation_year": 2019,
+        "soid": "ac4eae7e-123a-4b4c-b1be-4fa9695f5822"
     },
     {
         "iid": 40,
         "id": "yousef_alowayed",
         "arname": "يوسف العويد",
         "enname": "Yousef Alowayed",
-        "graduation_year": 2011
+        "graduation_year": 2011,
+        "soid": "8c636683-e425-4770-b1d6-f61a2e17545f"
     },
     {
         "iid": 41,
         "id": "ziyad_alharbi",
         "arname": "زياد الحربي",
         "enname": "Ziyad Alharbi",
-        "graduation_year": 2015
+        "graduation_year": 2015,
+        "soid": "0099679a-b0ca-41de-b35a-9532326c86a7"
     },
     {
         "iid": 42,
         "id": "abdulmalek_alem",
         "arname": "عبدالملك عالم",
         "enname": "Abdulmalek Alem",
-        "graduation_year": 2026
+        "graduation_year": 2026,
+        "soid": "5471dd1c-0dab-4ea9-abcc-6094af558244"
     },
     {
         "iid": 43,
         "id": "ahmed_alhaid",
         "arname": "أحمد بن خليل الحيد",
         "enname": "Ahmed Alhaid",
-        "graduation_year": null
+        "graduation_year": null,
+        "soid": "4dc21a61-08f6-4dd8-9b93-f534b4ea10fe"
     },
     {
         "iid": 44,
         "id": "albaraa_alawaji",
         "arname": "البراء العواجي",
         "enname": "Albaraa Alawaji",
-        "graduation_year": 2025
+        "graduation_year": 2025,
+        "soid": "102a522a-7fae-48c4-a001-889556dce92e"
     },
     {
         "iid": 45,
         "id": "anas_alsaygh",
         "arname": "أنس الصايغ",
         "enname": "Anas Alsaygh",
-        "graduation_year": 2026
+        "graduation_year": 2026,
+        "soid": "c2539ea5-6fd9-4871-90d0-0c3f2a61b890"
     },
     {
         "iid": 46,
         "id": "faisal_almuhaisen",
         "arname": "فيصل المحسين",
         "enname": "Faisal Almuhaisen",
-        "graduation_year": 2026
+        "graduation_year": 2026,
+        "soid": "f3b7d1fc-a0f7-49f0-9eba-834367a53e64"
     },
     {
         "iid": 47,
         "id": "hamzah_yousef",
         "arname": "حمزة يوسف",
         "enname": "Hamzah Yousef",
-        "graduation_year": null
+        "graduation_year": null,
+        "soid": "8c2c4101-c7f1-4af8-a392-d08b51d661bf"
     },
     {
         "iid": 48,
         "id": "husam_nouroli",
         "arname": "حسام بن عبدالمجيد نورولي",
         "enname": "Husam Nouroli",
-        "graduation_year": 2020
+        "graduation_year": 2020,
+        "soid": "747a3e92-94ce-45cf-9ad1-ad234b99c749"
     },
     {
         "iid": 49,
         "id": "hussam_ashour",
         "arname": "حسام عاشور",
         "enname": "Hussam Ashour",
-        "graduation_year": 2021
+        "graduation_year": 2021,
+        "soid": "c52ab6a6-7d9d-4c33-a962-f49e8c543194"
     },
     {
         "iid": 50,
         "id": "naser_alshaye",
         "arname": "ناصر هشام الشايع",
         "enname": "Naser Alshaye",
-        "graduation_year": 2026
+        "graduation_year": 2026,
+        "soid": "f43cadb5-c86d-4af5-a7ef-2829a77f1d0c"
     },
     {
         "iid": 51,
         "id": "faisal_aljuhani",
         "arname": "فيصل عبدالهادي الجهني",
         "enname": "Faisal Aljuhani",
-        "graduation_year": 2027
+        "graduation_year": 2027,
+        "soid": "07f75047-37f4-44db-895f-b82532b82e1c"
     },
     {
         "iid": 52,
         "id": "ibrahim_almuallem",
         "arname": "إبراهيم يوسف داود المعلم",
         "enname": "Ibrahim Almuallem",
-        "graduation_year": 2027
+        "graduation_year": 2027,
+        "soid": "3002cfa9-49d4-467b-b9ae-79bc5986401f"
     },
     {
         "iid": 53,
         "id": "mohammed_alali",
         "arname": "محمد ناصر العلي",
         "enname": "Mohammed Alali",
-        "graduation_year": 2027
+        "graduation_year": 2027,
+        "soid": "2492f773-94d8-434a-ae07-8f66c2271e35"
     },
     {
         "iid": 54,
         "id": "mohammed_alramil",
         "arname": "محمد محمود الرمل",
         "enname": "Mohammed Alramil",
-        "graduation_year": 2028
+        "graduation_year": 2028,
+        "soid": "497071ca-7d70-4664-a0c4-c4c3f522e0b6"
     },
     {
         "iid": 56,
         "id": "ridha_alkhamis",
         "arname": "رضا سالم الخميس",
         "enname": "Ridha Alkhamis",
-        "graduation_year": 2027
+        "graduation_year": 2027,
+        "soid": "44c6b271-c59c-4a25-a6c6-5ca2186dfb2e"
     }
 ]
