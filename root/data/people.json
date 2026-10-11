@@ -52,7 +52,7 @@
         "id": "ali_alhassan",
         "arname": "علي الحسن",
         "enname": "Ali Alhassan",
-        "graduation_year": null,
+        "graduation_year": 2025,
         "soid": "03855519-95a4-48e4-a546-3785077b4600"
     },
     {
@@ -114,7 +114,7 @@
     {
         "iid": 15,
         "id": "faour_faour",
-        "arname": "faour_faour",
+        "arname": "فاعور فاعور",
         "enname": "Faour Faour",
         "graduation_year": null,
         "soid": "8b3ef18d-b9a6-492a-acec-797a54d3e118"
@@ -141,6 +141,7 @@
         "arname": "غادة الشعلان",
         "enname": "Ghadah Alshalan",
         "graduation_year": 2017,
+        "is_female": true,
         "soid": "250a1b1b-24e8-4267-8b8f-19713695f1ad"
     },
     {
@@ -221,6 +222,7 @@
         "arname": "لمى الأهدل",
         "enname": "Lama Alahdal",
         "graduation_year": 2022,
+        "is_female": true,
         "soid": "f3c87862-1edc-4067-add4-fe237814544b"
     },
     {
@@ -277,6 +279,7 @@
         "arname": "روز السندي",
         "enname": "Rose Alsendi",
         "graduation_year": 2025,
+        "is_female": true,
         "soid": "d0c13f26-8f00-40e9-b9f8-3ae557eda642"
     },
     {
@@ -372,7 +375,7 @@
         "id": "hamzah_yousef",
         "arname": "حمزة يوسف",
         "enname": "Hamzah Yousef",
-        "graduation_year": null,
+        "graduation_year": 2024,
         "soid": "8c2c4101-c7f1-4af8-a392-d08b51d661bf"
     },
     {
