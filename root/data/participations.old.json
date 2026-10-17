@@ -152,7 +152,9 @@
         "participants": {
             "hussain_qadah": "bronze",
             "mazen_alshakhs": "bronze",
-            "rose_alsendi": "hm"
+            "rose_alsendi": "hm",
+            "mohammed_albarakat": null,
+            "ahmed_orif": null
         }
     },
     {
@@ -301,7 +303,7 @@
         "website": "https://apho2024.utar.edu.my/",
         "participants": {
             "mazen_alshakhs": "bronze",
-            "wesam_alqanbar": "hm",
+            "wesam_alqanbar": "bronze",
             "ahmed_fadhlallah": "hm",
             "abdulmalek_alem": "hm",
             "ahmed_orif": null,
