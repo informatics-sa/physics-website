@@ -215,10 +215,10 @@
             "abdulmohsen_alowayed": "hm",
             "fysal_alkhayyal": "hm",
             "ibrahim_alnami": null,
-            "ibrahim_aljuhani": null,
+            "ebrahim_aljohani": null,
             "omar_alqahtani": null,
             "mohammed_bali": null,
-            "mohammed_alwethenani": null,
+            "mohammed_alwazeenani": null,
             "ziyad_alharbi": null
         }
     },
@@ -240,7 +240,10 @@
         "end": "2016-05-09",
         "country": "hk",
         "website": "http://apho2016.ust.hk/",
-        "participants": {}
+        "participants": {
+            "ghadah_alshalan": "hm",
+            "abdulmalik_alghonaim": "hm"
+        }
     },
     {
         "name": "apho",
@@ -249,7 +252,9 @@
         "end": "2017-05-08",
         "country": "ru",
         "website": "http://apho2017.mipt.ru/",
-        "participants": {}
+        "participants": {
+            "ghadah_alshalan": "hm"
+        }
     },
     {
         "name": "apho",
