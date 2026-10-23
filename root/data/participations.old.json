@@ -263,7 +263,10 @@
         "end": "2018-05-012",
         "country": "vn",
         "website": "http://apho2018.vn/",
-        "participants": {}
+        "participants": {
+            "faisal_alsallom": "hm",
+            "yazan_almajnouni": "hm"
+        }
     },
     {
         "name": "apho",
@@ -283,7 +286,9 @@
         "end": "2021-05-24",
         "country": "tw",
         "website": "https://apho2020.tw/",
-        "participants": {}
+        "participants": {
+            "alqasem_senegali": "bronze"
+        }
     },
     {
         "name": "apho",
@@ -322,7 +327,7 @@
             "wesam_alqanbar": "bronze",
             "ahmed_fadhlallah": "hm",
             "abdulmalek_alem": "hm",
-            "ahmed_orif": null,
+            "ahmed_orif": "hm",
             "albaraa_alawaji": null,
             "hamzah_yousef": null,
             "ali_alhassan": null
@@ -340,7 +345,10 @@
             "hussain_alsaleh": "bronze",
             "faris_alghamdi": "hm",
             "mohammed_alarfaj": "hm",
-            "faisal_almuhaisen": "hm"
+            "faisal_almuhaisen": "hm",
+            "ali_alhassan": "hm",
+            "ibrahim_alothman": null,
+            "naser_alshaye": null
         }
     },
     {
@@ -523,7 +531,8 @@
             "wesam_alqanbar": "gold",
             "mazen_alshakhs": "silver",
             "ahmed_fadhlallah": "silver",
-            "ahmed_orif": "hm"
+            "ahmed_orif": "hm",
+            "abdulmalek_alem": null
         }
     },
     {
@@ -537,7 +546,8 @@
             "faris_alghamdi": "silver",
             "hussain_alsaleh": "silver",
             "mohammed_alarfaj": "bronze",
-            "ali_alhassan": "hm"
+            "ali_alhassan": "hm",
+            "naser_alshaye": null
         }
     },
     {
