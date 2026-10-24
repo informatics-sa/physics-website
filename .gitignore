@@ -8,16 +8,17 @@ vendor/bundle/
 lib/Database/
 
 # Build artifacts
+.resolved-builder
 root/*
 lib
 !root/img
 !root/data
+root/data/index.md
 !root/files
 build.py
 helper.py
 Gemfile
 Gemfile.lock
-.github/release_push.yml
 
 
 # OS / Editor Specific
