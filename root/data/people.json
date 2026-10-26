@@ -441,5 +441,45 @@
         "enname": "Ridha Alkhamis",
         "graduation_year": 2027,
         "soid": "44c6b271-c59c-4a25-a6c6-5ca2186dfb2e"
+    },
+    {
+        "iid": 57,
+        "id": "omar_alqahtani",
+        "arname": "عمر القحطاني",
+        "enname": "Omar Alqahtani",
+        "graduation_year": null,
+        "soid": "b9971f9c-5180-42bd-a9df-650563e0d5d1"
+    },
+    {
+        "iid": 58,
+        "id": "mohammed_bali",
+        "arname": "محمد بالي",
+        "enname": "Mohammed Bali",
+        "graduation_year": null,
+        "soid": "9a15e54f-a422-4b10-9c85-11a98e211f46"
+    },
+    {
+        "iid": 59,
+        "id": "hamzah_almalki",
+        "arname": "حمزة المالكي",
+        "enname": "Hamzah Almalki",
+        "graduation_year": null,
+        "soid": "a9617ee1-c9d0-4365-ab54-dafbbb7709e4"
+    },
+    {
+        "iid": 60,
+        "id": "ibrahim_alothman",
+        "arname": "إبراهيم العثمان",
+        "enname": "Ibrahim Alothman",
+        "graduation_year": 2025,
+        "soid": "9a389003-ae5a-4f4f-8790-89fd5a63ee86"
+    },
+    {
+        "iid": 60,
+        "id": "ahmad_alhaid",
+        "arname": "أحمد الحيد",
+        "enname": "Ahmad Alhaid",
+        "graduation_year": null,
+        "soid": "128b2e73-3a77-4b2b-a2d9-99305cac73c2"
     }
 ]
